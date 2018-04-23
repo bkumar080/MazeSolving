@@ -1,4 +1,4 @@
-# mazesolving
+# Maze Solving 
 A variety of algorithms to solve mazes from an input image.
 
 ## Input
